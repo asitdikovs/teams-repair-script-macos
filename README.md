@@ -1,5 +1,3 @@
-# teams-repair-script-macos
-
 This script is designed for macOS devices to help resolve Microsoft Teams issues by automatically closing Teams and deleting its cache and data folders. It is suitable for use with any MDM solution.
 
 ## What the Script Does
